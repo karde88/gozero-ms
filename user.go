@@ -4,11 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"user/internal/config"
-	"user/internal/server"
-	"user/internal/svc"
-	"user/types/user"
-
+	"github.com/karde88/gozero-ms/user/internal/config"
+	"github.com/karde88/gozero-ms/user/internal/server"
+	"github.com/karde88/gozero-ms/user/internal/svc"
+	"github.com/karde88/gozero-ms/user/types/user"
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"
 	"github.com/zeromicro/go-zero/zrpc"

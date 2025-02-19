@@ -7,9 +7,8 @@ package server
 import (
 	"context"
 
-	"user/internal/logic"
-	"user/internal/svc"
-	"user/types/user"
+
+
 )
 
 type UserServer struct {
