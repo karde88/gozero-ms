@@ -7,7 +7,6 @@ package server
 import (
 	"context"
 	"github.com/karde88/gozero-ms/user/internal/logic"
-	"github.com/karde88/gozero-ms/user/internal/server"
 	"github.com/karde88/gozero-ms/user/internal/svc"
 	"github.com/karde88/gozero-ms/user/types/user"
 
