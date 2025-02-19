@@ -7,6 +7,10 @@ package userclient
 import (
 	"context"
 
+	"github.com/karde88/gozero-ms/user/internal/config"
+	"github.com/karde88/gozero-ms/user/internal/server"
+	"github.com/karde88/gozero-ms/user/internal/svc"
+	"github.com/karde88/gozero-ms/user/types/user"
 
 
 	"github.com/zeromicro/go-zero/zrpc"
