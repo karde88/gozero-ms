@@ -2,11 +2,9 @@ package logic
 
 import (
 	"context"
-	// "user/internal/svc"
-	// "user/types/user"
 
-	"github.com/karde88/gozero-ms/internal/svc"
-	"github.com/karde88/gozero-ms/types/user"
+	"github.com/karde88/gozero-ms/user/internal/svc"
+	"github.com/karde88/gozero-ms/user/types/user"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 
